@@ -11,7 +11,7 @@ Parses Elite Dangerous `.binds` files and generates joystick binding diagrams. C
 
 ## Installation
 
-Copy this plugin folder into your Joystick Diagrams user plugins directory.
+Install via URL by pointing joystick-diagrams at the release .zip URL or else copy this plugin folder into your Joystick Diagrams user plugins directory.
 
 ## Usage
 

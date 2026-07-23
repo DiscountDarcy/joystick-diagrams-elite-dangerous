@@ -1,4 +1,4 @@
-# Elite Dangerous Plugin for Joystick Diagrams
+# Elite Dangerous Plugin for [Joystick Diagrams](https://github.com/Rexeh/joystick-diagrams)
 
 Parses Elite Dangerous `.binds` files and generates joystick binding diagrams.
 
